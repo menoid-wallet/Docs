@@ -30,6 +30,7 @@ works, section by section.
 | [1. Noid Mode Registration](DOCS.md#1-noid-mode-registration) | One signature → your Noid identity, registered on-chain |
 | [2. Overview](DOCS.md#2-overview) | The whole system: one pool, three operations, and the relayer |
 | [3. Deposit](DOCS.md#3-deposit) | Open Mode → Noid Mode: public funds become private notes |
+| ⚠️ [Exception — Aptos](DOCS.md#exception--aptos-updates-the-tree-in-a-second-step) | Why Aptos inserts the leaf in a second transaction, with a fourth circuit |
 | [4. Transfer](DOCS.md#4-transfer) | Private value movement — sender, receiver and amount all hidden |
 | [5. Withdraw](DOCS.md#5-withdraw) | Noid Mode → Open Mode: notes burned, funds released |
 
